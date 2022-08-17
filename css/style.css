@@ -53,9 +53,10 @@ article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
   display: block;
 }
 
+
 body {
   margin: 0;
-  font-family: "Roboto", sans-serif;
+  font-family: "Times New Roman", Times, serif;
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
@@ -525,9 +526,26 @@ mark,
   content: "\2014\00A0";
 }
 
+.img-fluid-about {
+  max-width: 100%;
+  height: auto;
+}
+
 .img-fluid {
   max-width: 100%;
   height: auto;
+}
+
+.img-fluid-portfolio{
+  width: auto !important;
+  height: 300px !important;
+  border: 1px #ccc solid !important;
+}
+
+.img-fluid-apps{
+  width: auto !important;
+  height: auto !important;
+  border: 1px #ccc solid !important;
 }
 
 .img-thumbnail {
@@ -9965,20 +9983,28 @@ h6,
 
 .blog-date {
   position: absolute;
-  width: 60px;
-  height: 60px;
+  width: 150px;
+  height: 50px;
   display: flex;
   align-items: center;
   justify-content: center;
   flex-direction: column;
   top: calc(50% - 30px);
-  left: calc(50% - 30px);
-  border-radius: 60px;
-  background: #0BCEAF;
+  left: calc(40% - 30px);
+  border-radius: 10px;
+  background: #d5f7f2;
 }
 
 .contact-form .help-block ul {
   margin: 0;
   padding: 0;
   list-style-type: none;
+}
+
+a hover{
+  text-decoration: none !important;
+}
+
+a:link, a:visited {
+  text-decoration: none !important;
 }
