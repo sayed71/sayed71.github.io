@@ -1,6 +1,6 @@
 function send_email()
 {
-	var email_address = "sayedmasud69@gmail.com";
+	var email_address = "sayed2k7@gmail.com";
 	var email_subject = document.getElementById("subject").value;
 	var email_body = document.getElementById("message").value;
 
