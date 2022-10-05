@@ -7,5 +7,4 @@
 
 I've been a programmer for 5+ years, currently working ASP.Net Core, ASP.Net WebForms, C#.Net WinForms, PHP, MS SQL Server, MySQL, JavaScript, jQuery, Bootstrap. I have a passion for learning new skills, and I'm extremely dedicated to my work with crazy & creative ideas by providing new solutions!
 </p>
-<br>
 <p>Portfolio Website: <a href="https://sayed71.github.io">sayed71.github.io</a></p>
