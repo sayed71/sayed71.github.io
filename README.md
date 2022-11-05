@@ -7,6 +7,8 @@
 
 I've been a Full-Stack Developer for 5+ years, currently working ASP.Net Core, ASP.Net WebForms, C#.Net WinForms, PHP, MS SQL Server, MS Access 2003, MySQL, SAP Crystal Report, JavaScript, jQuery, and Bootstrap. I have a passion for learning new skills, and I'm extremely dedicated to my work with crazy & creative ideas by providing new solutions.
 
+>> Portfolio Website: https://sayed71.github.io <br>
+
 <!--### Portfolio Link:
 - Website: https://sayed71.github.io <br>
 - Portfolio: https://bit.ly/3AqQwq6 <br>
